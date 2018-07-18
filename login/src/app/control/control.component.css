@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+p{
+    font-weight: bolder;
+    font-size: 200%;
+    color: brown;
+    
+}
+body{
+    padding: 0px;
+}
+#button{
+    width: 9.6em;  height: 2em;
+    margin-left: 0.10%;
+    background-color: rgb(83, 83, 243);
+    color: white;
+    margin-bottom: 1px;
+    padding-bottom: 1px;
+}
+header{
+
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/94/88/2957eb30e1c6964.jpg);
+    width: 231px;
+    background-size: cover;
+    background-position: center;
+    border: 3px solid purple;
+    box-sizing: border-box;
+
+
+}
+a{
+    color: greenyellow;
+}
