@@ -19,6 +19,8 @@ body{
     color: white;
     margin-bottom: 1px;
     padding-bottom: 1px;
+    margin-top: 2.5px;
+    font-size: 13pt;
 }
 header{
 
@@ -33,4 +35,39 @@ header{
 }
 a{
     color: greenyellow;
+}
+#checkbox{
+    margin-left: -5px;
+}
+#rememberStyle{
+    font-size: 17px;
+    padding: -1px;
+    color: darkblue ;
+    font-weight: normal ;
+    margin: -2px;
+}
+#passwordStyle{
+    color: gray;
+    margin-right: 4.7% ;
+    font-size: 115% ;
+    margin: -1px;
+}
+usernameStyle{
+    color: gray;
+    margin-right: 122% ;
+    font-size: 115% ;
+    margin: -1px
+}
+.helppls{
+    padding-left: 42.5%;
+}
+#welcomeText{
+    font-size: 15pt;
+}
+#bodyStyle{
+    background-color:antiquewhite;
+    text-align:center;
+}
+#imageStyle{
+    height: 100px;
 }
